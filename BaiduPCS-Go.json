@@ -5,12 +5,12 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-windows-x64.zip",
-            "hash": "5f21322635720469afeca6b55fb63c5d9316f2db2fd73a0205771bf0d63dc09c",
+            "hash": "6593c32f32c12d85e0a9eaa7dcd4bebb9809a19659dbcd2c84b94bde14d6e12e",
             "extract_dir": "BaiduPCS-Go-v3.6.2-windows-x64"
         },
         "32bit": {
             "url": "https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-windows-x86.zip",
-            "hash": "3b096353380085bb7ffe2e76e37d78648c6677e8b64931bbc648154287085acb",
+            "hash": "72a4504f1b9860f0938a0d710e7255beb21757ba6d8d7db9b9bad9a9475bc07e",
             "extract_dir": "BaiduPCS-Go-v3.6.2-windows-x86"
         }
     },
