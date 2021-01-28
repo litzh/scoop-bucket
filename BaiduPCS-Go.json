@@ -1,17 +1,17 @@
 {
     "homepage": "https://github.com/felixonmars/BaiduPCS-Go",
     "license": "Apache-2.0",
-    "version": "3.6.2",
+    "version": "3.7.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-windows-x64.zip",
-            "hash": "6593c32f32c12d85e0a9eaa7dcd4bebb9809a19659dbcd2c84b94bde14d6e12e",
-            "extract_dir": "BaiduPCS-Go-v3.6.2-windows-x64"
+            "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.7.3/BaiduPCS-Go-v3.7.3-windows-x64.zip",
+            "hash": "bd88d0885d65ecf9175d169d30232cf6de851d3d6dd6934d8205904bc3c5f7fd",
+            "extract_dir": "BaiduPCS-Go-v3.7.3-windows-x64"
         },
         "32bit": {
-            "url": "https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-windows-x86.zip",
-            "hash": "72a4504f1b9860f0938a0d710e7255beb21757ba6d8d7db9b9bad9a9475bc07e",
-            "extract_dir": "BaiduPCS-Go-v3.6.2-windows-x86"
+            "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.7.3/BaiduPCS-Go-v3.7.3-windows-x86.zip",
+            "hash": "e721325910f17c93e8558df61b41d7714fbcbc1853e974bd7ff70edd388d23fd",
+            "extract_dir": "BaiduPCS-Go-v3.7.3-windows-x86"
         }
     },
     "bin": [
@@ -24,11 +24,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/felixonmars/BaiduPCS-Go/releases/download/v$version/BaiduPCS-Go-v$version-windows-x64.zip",
+                "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v$version/BaiduPCS-Go-v$version-windows-x64.zip",
                 "extract_dir": "BaiduPCS-Go-v$version-windows-x64"
             },
             "32bit": {
-                "url": "https://github.com/felixonmars/BaiduPCS-Go/releases/download/v$version/BaiduPCS-Go-v$version-windows-x86.zip",
+                "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v$version/BaiduPCS-Go-v$version-windows-x86.zip",
                 "extract_dir": "BaiduPCS-Go-v$version-windows-x86"
             }
         }
