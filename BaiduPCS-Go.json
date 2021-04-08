@@ -1,17 +1,17 @@
 {
-    "homepage": "https://github.com/felixonmars/BaiduPCS-Go",
+    "homepage": "https://github.com/qjfoidnh/BaiduPCS-Go",
     "license": "Apache-2.0",
-    "version": "3.7.3",
+    "version": "3.7.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.7.3/BaiduPCS-Go-v3.7.3-windows-x64.zip",
-            "hash": "bd88d0885d65ecf9175d169d30232cf6de851d3d6dd6934d8205904bc3c5f7fd",
-            "extract_dir": "BaiduPCS-Go-v3.7.3-windows-x64"
+            "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.7.8/BaiduPCS-Go-v3.7.8-windows-x64.zip",
+            "hash": "cdee5e58e3956240dfdd530812099c410e58fcddab59039dbcea331870536471",
+            "extract_dir": "BaiduPCS-Go-v3.7.8-windows-x64"
         },
         "32bit": {
-            "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.7.3/BaiduPCS-Go-v3.7.3-windows-x86.zip",
-            "hash": "e721325910f17c93e8558df61b41d7714fbcbc1853e974bd7ff70edd388d23fd",
-            "extract_dir": "BaiduPCS-Go-v3.7.3-windows-x86"
+            "url": "https://github.com/qjfoidnh/BaiduPCS-Go/releases/download/v3.7.8/BaiduPCS-Go-v3.7.8-windows-x86.zip",
+            "hash": "ee6f16e256b4ac6be52fde1f68b8dfd0d39cde3a30bb108e226aa5503e3125c9",
+            "extract_dir": "BaiduPCS-Go-v3.7.8-windows-x86"
         }
     },
     "bin": [
